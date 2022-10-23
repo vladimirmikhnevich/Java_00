@@ -1,2 +1,4 @@
-package project_utils;public class Utils {
+package project_utils;
+
+public class Utils {
 }
