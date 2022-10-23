@@ -70,6 +70,7 @@ public class FizzBuzzTest {
         int end = 1;
         String[] expectedResult = {};
 //git remote add origin https://github.com/vladimirmikhnevich/Java_05.git
+//        'It is super puper commit! I\'ve fixed everything in the world!'git push
         //act
         String[] actualResult = new FizzBuzz().fizzBuzz(start, end);
 
